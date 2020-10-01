@@ -1,3 +1,4 @@
+Amazing project
 yawd-translations, create multilingual django websites
 ======================================================
 
